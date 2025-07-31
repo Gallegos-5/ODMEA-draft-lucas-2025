@@ -48,6 +48,10 @@ The **Open Demonstration and Mastery-Based Education Act (ODMEA)** is a comprehe
 - [ODMEA.pdf](./ODMEA.pdf)
 
 ---
+## DOI
+
+[Gallegos, Lucas. *Open Demonstration & Mastery-Based Education Act (ODMEA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16626992)
+****
 
 ## Part of the G5 Reform Portfolio
 
