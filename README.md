@@ -3,7 +3,12 @@
 **A federal reform blueprint for open, mastery-based education, AI transparency, and anti-gatekeeping innovation.**
 
 ---
-
+> **Why it matters:**  
+> • **Learn at your own pace, prove mastery, advance—no seat-time jail**  
+> • **Portable, verifiable skill records** beat outdated transcripts and GPAs  
+> • **Open AI copilots with audit logs** help teachers, not replace them  
+> • **Equity audits every year** to close—not hide—achievement gaps
+---
 ## Overview
 
 The **Open Demonstration and Mastery-Based Education Act (ODMEA)** is a comprehensive proposal to modernize U.S. education through public, interoperable skill registries, mastery-based learning pilots, transparent AI integration, and robust privacy, equity, and anti-abuse safeguards.
